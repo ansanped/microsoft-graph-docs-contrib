@@ -399,6 +399,8 @@ Content-type: application/json
 
 ### Example 5: Send a new message flagged for follow-up
 
+This only configures startDateTime and dueDateTime for the sending user, not the recipient.
+
 #### Request
 
 <!-- {
